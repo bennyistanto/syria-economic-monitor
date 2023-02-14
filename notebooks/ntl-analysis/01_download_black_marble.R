@@ -1,6 +1,7 @@
 # Download Black Marble Data
 
 BEARER <- "BEARER-TOKEN-HERE" # Bearer token from NASA
+BEARER <- "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJBUFMgT0F1dGgyIEF1dGhlbnRpY2F0b3IiLCJpYXQiOjE2NzU5NzQ4MjYsIm5iZiI6MTY3NTk3NDgyNiwiZXhwIjoxNjkxNTI2ODI2LCJ1aWQiOiJyYW1hcnR5IiwiZW1haWxfYWRkcmVzcyI6InJhbWFydHlAZW1haWwud20uZWR1IiwidG9rZW5DcmVhdG9yIjoicmFtYXJ0eSJ9.NfaNUh31lqG4I88jrpI96N8Ui7jy5Lm6hvBJuOxf4uM" # Bearer token from NASA
 
 # Load data --------------------------------------------------------------------
 # Load black marble grid and country polygons
